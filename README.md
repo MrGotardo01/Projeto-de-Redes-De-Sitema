@@ -21,8 +21,9 @@ Uma série de exemplos passo-a-passo que informam o que você deve executar para
 Instalação do programa:
 
 ```
-Basta fazer uma instalação padrão da forma que desjar.
+Basta fazer uma instalação padrão da forma que desjar .
 ```
+[Cisco Packet Tracer](https://www.netacad.com/pt-br/courses/packet-tracer/)
 
 Como abrir o arquivo:
 
